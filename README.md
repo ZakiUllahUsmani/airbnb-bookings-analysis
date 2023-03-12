@@ -1,5 +1,7 @@
 # Air Bnb Booking Analysis
 
+![tenor](https://tenor.com/view/airbnb-globe-gif-4896074.gif)
+
 Airbnb is an online marketplace that connects people who want to rent out their homes with people who are looking for accommodations in specific locales.
 The company had come a long way since 2007 when its co-founders first came up with the idea to invite paying guests to sleep on an air mattress in their living room. According to Airbnb's latest data, it has more than six million listings, covering more than 100,000 cities and towns and 220-plus countries worldwide.
 Since 2008, guests and hosts have used Airbnb to expand on traveling possibilities and present a more unique, personalized way of experiencing the world. Today, Airbnb has become a one-of-a-kind service that is used and recognized by the world. Data analysis on millions of listings provided through Airbnb is a crucial factor for the company. These millions of listings generate a lot of data - data that can be analyzed and used for security, business decisions, understanding of customers' and providers' (hosts) behavior and performance on the platform, guiding marketing initiatives, implementation of innovative additional services, and much more.
